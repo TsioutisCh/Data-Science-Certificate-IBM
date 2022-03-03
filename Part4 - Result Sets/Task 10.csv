@@ -1,0 +1,9 @@
+Type of Landing Outcome,Occurences
+"No attempt","10"
+"Failure (drone ship)","5"
+"Success (drone ship)","5"
+"Controlled (ocean)","3"
+"Success (ground pad)","3"
+"Failure (parachute)","2"
+"Uncontrolled (ocean)","2"
+"Precluded (drone ship)","1"
